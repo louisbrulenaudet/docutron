@@ -14,7 +14,6 @@ Whether you are delving into contract analysis, legal document summarization, or
 
 ## Dependencies
 The script relies on the following Python libraries:
--   Python
 -   PyTorch
 -   Detectron2
 -   Cv2
